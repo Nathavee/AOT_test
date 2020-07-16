@@ -1,1 +1,1 @@
-1.0---https://raw.githubusercontent.com/Rewlgil/cusensor/master/CUsense_V2.1.ino.esp32.bin
+1.1---https://github.com/Nathavee/AOT_test/raw/master/OTA.ino.nano32.bin
