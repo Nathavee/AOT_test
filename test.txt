@@ -1,1 +1,1 @@
-1.1---https://github.com/Nathavee/AOT_test/raw/master/OTA.ino.nano32.bin
+1.1---https://raw.githubusercontent.com/Nathavee/AOT_test/master/OTA.ino.nano32.bin
